@@ -1,0 +1,43 @@
+(are we supposed to upload the docx or ??)
+Lance M. Delgado		CPEng 2-A
+16-607		January 23, 2025
+
+Enhancing Personal Productivity through Habit 
+Tracking and Digital Decluttering
+Introduction
+In today’s digital age, productivity is often hindered by poor habit management and overwhelming digital clutter. Many individuals struggle to maintain consistent routines while simultaneously navigating excessive notifications, disorganized files, and overloaded inboxes. This issue is highly relevant for students, professionals, and organizations alike, as it directly impacts focus, efficiency, and mental well-being. Those most affected include knowledge workers, students, and individuals who rely heavily on digital tools for daily tasks.
+Problem Description
+The problem lies in two interconnected areas: habit tracking and digital clutter. Without structured tracking, individuals fail to monitor progress toward personal or academic goals, leading to inconsistency and reduced motivation. At the same time, digital clutter such as redundant files, unmanaged emails, and constant app notifications creates distractions and cognitive overload.
+Observations / Data:
+•	Studies show that 47% of daily actions are habitual, yet most go untracked.
+•	The average person spends 3+ hours daily on smartphones, much of it wasted on cluttered apps.
+•	85% of workers report that digital clutter reduces focus and productivity.
+Limitations / Challenges:
+•	Users often lack discipline to maintain manual tracking systems.
+•	Existing productivity apps may be too complex or overwhelming.
+•	Resistance to change and digital minimalism habits.
+
+Proposed Solution
+The proposed solution is a tech-enabled productivity platform that integrates habit tracking with digital decluttering tools.
+Features List:
+•	Habit Tracker: Simple streak-based tracking with reminders and progress visualization.
+•	Digital Declutter Assistant: Automated file organization, inbox clean-up, and notification control.
+•	Focus Mode: Customizable “quiet hours” to reduce distractions.
+•	Cross-Platform Sync: Available on mobile, desktop, and cloud storage.
+•	Analytics Dashboard: Insights into time saved and goals achieved.
+Target Users:
+•	University students managing study routines.
+•	Professionals balancing work tasks and digital communication.
+•	Organizations seeking to improve employee productivity.
+Expected Impact:
+•	Increased consistency in personal and academic habits.
+•	Reduced stress and cognitive fatigue caused by digital clutter.
+•	Improved productivity, saving up to 11 hours/month of wasted time.
+
+Conclusion
+By combining habit tracking with digital decluttering, this solution addresses two major barriers to productivity. It empowers users to build consistent routines while minimizing distractions from digital overload. The expected outcome is a measurable improvement in focus, efficiency, and overall well-being, making this project highly valuable for both individuals and organizations.
+
+References
+Wood, W., & Rünger, D. (2016). Psychology of habits. Annual Review of Psychology, 67(1), 289–314. https://doi.org/10.1146/annurev-psych-122414-033417 (doi.org in Bing)
+RescueTime. (2023). The cost of digital distractions. Retrieved from https://www.rescuetime.com
+McKinsey & Company. (2022). Productivity in the digital workplace. Retrieved from https://www.mckinsey.com
