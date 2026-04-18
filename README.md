@@ -1,6 +1,5 @@
 # Elective-Laboratories
-
-Prelim Lab Activities
+All Laboratory Activities for 24th Century IT Skills in one Repo!
 
 Github Link: https://github.com/lansoybundado
 
