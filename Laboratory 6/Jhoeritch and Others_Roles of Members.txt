@@ -1,0 +1,27 @@
+Balmori 
+	Tech & Product-Focused Investor
+	Video Director
+Dacanay 
+	Lead Investor / Strategic Advisor
+	Script Coordinator
+Delgado 
+	Finance Head / Chief Financial Officer
+	Video Recording & Monitoring
+Estrella 
+	Meeting Host / Moderator
+	Executive Producer
+Jacob 
+	Project Leader / Lead Presenter
+	Script Development
+Hinlog 
+	Marketing Strategist / Market Analyst
+	Script Development
+Noschese 
+	Technical Lead / Chief technology officer
+	Technical Setup
+Pulido 
+	Operations Manager / Chief Operating Officer
+	Script Development
+Ramos 
+	Financial & Risk-Focused Investor
+	OBS Studio Management
